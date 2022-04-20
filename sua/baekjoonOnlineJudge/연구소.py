@@ -70,4 +70,3 @@ for i in three_wall:
 
 
 print(max_safety_zone)
-# print(max_arr)​
