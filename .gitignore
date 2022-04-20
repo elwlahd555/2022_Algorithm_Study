@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,java,eclipse,intellij,visualstudio,visualstudiocode,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,java,eclipse,intellij,visualstudio,visualstudiocode,jupyternotebooks
 
+sua/baekjoonOnlineJudge/.idea
+
 ### Eclipse ###
 .metadata
 bin/
