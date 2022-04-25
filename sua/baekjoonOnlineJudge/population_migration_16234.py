@@ -51,7 +51,7 @@ def solution():
         time += 1
 
 
-def unite_move(q, united,idx):
+def unite_move(q, united):
     total = 0
     global no_move
     while q:
@@ -60,6 +60,7 @@ def unite_move(q, united,idx):
 
         valx = val[0]
         valy = val[1]
+        total += arr[valx][valy]
 
         for j in range(4):
             nx = valx + dx[j]
@@ -73,14 +74,8 @@ def unite_move(q, united,idx):
                         united.append((nx, ny))
                         no_move = False
 
-    if len(united)>=2:
-        for i in united:
-            total += arr[i[0]][i[1]]
-
-        for i in united:
-            arr[i[0]][i[1]] = int(total / len(united))
-    elif len(united)==1:
-        idx+=1
+    for i in united:
+        arr[i[0]][i[1]] = int(total / len(united))
 
 
 # print(arr)
