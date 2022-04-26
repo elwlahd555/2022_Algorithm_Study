@@ -6,6 +6,7 @@
   <hr>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghqls0702)](https://solved.ac/ghqls0702/)
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=znlstndk)](https://solved.ac/znlstndk/)
 
   <hr>
 </
