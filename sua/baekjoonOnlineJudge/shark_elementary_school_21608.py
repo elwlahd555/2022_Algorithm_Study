@@ -1,7 +1,6 @@
 N = int(input())
 inputarr = [[0] * 2 for _ in range(N * N)]
 arr = [[-1] * N for _ in range(N)]
-fav_list = [[0] for _ in range(N * N)]
 fav_name = [[0] for _ in range(N * N)]
 
 for i in range(N * N):
