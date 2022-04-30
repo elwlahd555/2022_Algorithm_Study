@@ -1,5 +1,3 @@
-import copy
-from collections import deque
 
 # 연구소 풀이 첫번째
 

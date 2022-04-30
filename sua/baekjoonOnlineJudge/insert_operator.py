@@ -36,7 +36,7 @@ def dfs(idx, oper, arr, operator_list, operator):
     if operator[0]>0:
         operator[0] -= 1
         operator_list.append(0)
-        dfs(idx + 1, oper, arr, operator_list, operator)
+        dfs(idx + 1, oper, arr, operator_list, operator) # 백트래킹
         operator[0] += 1
         operator_list.pop()
     if operator[1]>0:
