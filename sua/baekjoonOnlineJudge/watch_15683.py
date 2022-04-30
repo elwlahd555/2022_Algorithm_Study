@@ -106,6 +106,7 @@ def dfs(arr,CCTV,cnt):
     val = CCTV[cnt]
     numCCTV=val[0]
 
+
     # cctv 별 LOOP 수 줄여줌
     if numCCTV==1:
         forloop=4
