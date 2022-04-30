@@ -72,6 +72,7 @@ def max_safety_area():
 
 
 
+
 n, m = map(int, input().split())
 
 arr = []
