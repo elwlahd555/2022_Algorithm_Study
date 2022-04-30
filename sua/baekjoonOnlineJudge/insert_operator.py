@@ -8,6 +8,7 @@ count_list=[]
 min_val=1e9
 max_val=-1e9
 
+
 def dfs(idx, oper, arr, operator_list, operator):
     global min_val,max_val
 
