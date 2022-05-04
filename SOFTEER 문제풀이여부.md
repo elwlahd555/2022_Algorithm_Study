@@ -74,7 +74,7 @@
 
 - [트럭](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=631)
 
-- [플레이페어] (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=804) <img src="./md-images/universooa.png" height = "30" width="30">
+- [플레이페어](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=804)  <img src="./md-images/universooa.png" height = "30" width="30">
 
-- [교차로] (https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=803) <img src="./md-images/universooa.png" height = "30" width="30"> (본것도 푼거임~~)
+- [교차로](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=803)  <img src="./md-images/universooa.png" height = "30" width="30"> (본것도 푼거임~~)
 
