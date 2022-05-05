@@ -72,7 +72,7 @@
 
 - [거리합 구하기](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=635)
 
-- [트럭](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=631)
+- [트럭](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=631) <img src="./md-images/universooa.png" height = "30" width="30"> ( 못 품..ㅋ)
 
 - [플레이페어](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=804)  <img src="./md-images/universooa.png" height = "30" width="30">
 
