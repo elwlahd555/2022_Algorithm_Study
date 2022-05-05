@@ -52,9 +52,9 @@
 
 - [Garage game](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=540)
 
-- [비밀메뉴](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=623)
+- [비밀메뉴](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=623) <img src="./md-images/elwlahd555.png" height = "30" width="30">
 
-- [전광판](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=624)
+- [전광판](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=624) <img src="./md-images/elwlahd555.png" height = "30" width="30">
 
 - [회의실예약](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=626)
 
