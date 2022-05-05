@@ -1,4 +1,4 @@
-package algorithm.java.baekjoon;
+package com.sovle.algorithm.java.baekjoon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

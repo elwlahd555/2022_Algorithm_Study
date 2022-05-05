@@ -1,4 +1,4 @@
-package algorithm.java.programmers.sk;
+package com.solve.algorithm.java.programmers.sk;
 
 import java.util.LinkedList;
 
