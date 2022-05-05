@@ -26,7 +26,7 @@
 
 - [강의실 배정](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=392)
 
-- [우물 안 개구리](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=394)
+- [우물 안 개구리](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=394) <img src="./md-images/universooa.png" height = "30" width="30">
 
 - [금고털이](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=395)
 
