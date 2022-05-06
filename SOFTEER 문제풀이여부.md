@@ -66,7 +66,7 @@
 
 - [마이크로 서버](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=628)
 
-- [비밀메뉴 2](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=633)
+- [비밀메뉴 2](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=633) <img src="./md-images/elwlahd555.png" height = "30" width="30">(이것도 어렵)
 
 - [코딩테스트세트](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=630)
 
@@ -76,5 +76,5 @@
 
 - [플레이페어](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=804)  <img src="./md-images/universooa.png" height = "30" width="30">
 
-- [교차로](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=803)  <img src="./md-images/universooa.png" height = "30" width="30"> (본것도 푼거임~~)
+- [교차로](https://softeer.ai/practice/info.do?eventIdx=1&psProblemId=803)  <img src="./md-images/universooa.png" height = "30" width="30"> (본것도 푼거임~~) <img src="./md-images/elwlahd555.png" height = "30" width="30"> (너무 어렵)
 
